@@ -13,7 +13,6 @@ Vue 2 | Vuetify | Axios
 ## Itens obrigatórios: 
 ```
 Vue: 2 | Node: v14.17.6 | Backend 
-
 ```
 - [Backend - Clique aqui para ser redirecionado para o repositório](https://github.com/omatheusoliveira/backend-todo-list)
 
@@ -45,7 +44,6 @@ Na raiz do projeto, renomeie o arquivo .env.example para .env, em seguida, coloq
 Ex:
 
 VUE_APP_API_BASE = localhost
-
 ```
 
 **Passo 3:**
@@ -54,6 +52,5 @@ Para rodar o projeto, execute os seguintes comandos:
 
 ```
 npm run serve // para executar a aplicação
-
 ```
 
