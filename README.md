@@ -12,18 +12,20 @@ Vue 2 | Vuetify | Axios
 
 ## Itens obrigatórios: 
 ```
-Vue: 2 | Node: v14.17.6 | Backend [Repositório](https://github.com/omatheusoliveira/backend-todo-list)
+Vue: 2 | Node: v14.17.6 | Backend 
+
 ```
+- [Backend - Clique aqui para ser redirecionado para o repositório](https://github.com/omatheusoliveira/backend-todo-list)
 
 ## Telas - Usuário:
 
-- [x] Cadastro de usuário
-- [x] Listar/Editar/Excluir usuário
+- [x]  Cadastro de usuário
+- [x]  Listar/Editar/Excluir usuário
 
 ## Telas - Task:
 
-- [x] Cadastro de task
-- [x] Listar/Editar/Excluir task
+- [x]  Cadastro de task
+- [x]  Listar/Editar/Excluir task
 
 ## Inicializando o projeto
 
