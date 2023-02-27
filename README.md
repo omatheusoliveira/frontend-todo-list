@@ -19,7 +19,7 @@ Vue: 2 | Node: v14.17.6 | Backend
 ## Telas - Usuário:
 
 - [x]  Cadastro de usuário
-- [x]  Listar/Editar/Excluir usuário
+- [x]  Listar/Excluir usuário
 
 ## Telas - Task:
 
