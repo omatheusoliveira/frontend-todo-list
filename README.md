@@ -2,7 +2,8 @@
 
 ## Descrição:
 ```
-Projeto construido com intuido de monitorar vendas, é possível cadastrar vendedor(CRUD) e também fazer o registro das vendas.
+Projeto construido com intuido de monitorar vendas, é possível cadastrar vendedor(CRUD) e também
+fazer o registro das vendas.
 ```
 
 ## Tecnologias usadas: 
@@ -72,7 +73,8 @@ Referente as vendas:
 
 ```
       URL                        TO DO
-/list-sale        /* Lista as vendas, é necessário selecionar um vendedor e o vendedor terá que ter feito ao menos uma venda */
+/list-sale        /* Lista as vendas, é necessário selecionar um vendedor e o vendedor terá que ter
+                     feito ao menos uma venda */
 /register-sale    /* Cria uma venda */
 
 ```
