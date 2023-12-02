@@ -1,32 +1,30 @@
-# Homework - Frontend
+# Frontend - To do List
 
 ## Descrição:
 ```
-Projeto construido com intuido de monitorar vendas, é possível cadastrar vendedor(CRUD) e também
-fazer o registro das vendas.
+Parte Frontend do projeto To do List que foi feito em Vue 2 com framework Vuetify
 ```
 
 ## Tecnologias usadas: 
 ```
-Vue 2 | Vuetify | Axios
+Vue 2 | Vuetify | Axios 
 ```
 
 ## Itens obrigatórios: 
 ```
-VueJs: 2 | Node: 16 | 
+Vue: 2 | Node: v14.17.6 | Backend 
 ```
+- [Backend - Clique aqui para ser redirecionado para o repositório](https://github.com/omatheusoliveira/backend-todo-list)
 
-## Funções - Vendedor:
+## Telas - Usuário:
 
-- Cadastro de Vendedor
-- Listar Vendedores
-- Excluir Vendedor
-- Editar Vendedor
+- [x]  Cadastro de usuário
+- [x]  Listar/Excluir usuário
 
-## Funções - Vendas:
+## Telas - Task:
 
-- Cadastro de Venda
-- Listar Venda por Vendedor
+- [x]  Cadastro de task
+- [x]  Listar/Editar/Excluir task
 
 ## Inicializando o projeto
 
@@ -53,28 +51,5 @@ VUE_APP_API_BASE = localhost
 Para rodar o projeto, execute os seguintes comandos:
 
 ```
-npm run serve 
-```
-
-
-## Telas:
-
-Referente ao vendedor:
-
-```
-       URL                        TO DO
-/register-user     /* Cria um vendedor */
-/list-user         /* Lista todos os vendedores, nesta tela também é possível editar/excluir vendedor
-                      PS: Não é possível excluir vendedor que já tenha realizado alguma venda */
-
-```
-
-Referente as vendas:
-
-```
-      URL                        TO DO
-/list-sale        /* Lista as vendas, é necessário selecionar um vendedor e o vendedor terá que ter
-                     feito ao menos uma venda */
-/register-sale    /* Cria uma venda */
-
+npm run serve // para executar a aplicação
 ```
